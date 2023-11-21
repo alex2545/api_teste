@@ -1,0 +1,15 @@
+body{
+   background-image: url(imagens/trevis.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Isso mantém a imagem de fundo fixa enquanto a página rola */
+    background-position: center center;
+}
+
+.h1{
+    color: yellow
+}
+
+p{
+    color: white;
+}
